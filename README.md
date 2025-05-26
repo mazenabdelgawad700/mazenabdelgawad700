@@ -63,6 +63,8 @@ What sets me apart is not just technical expertise but a strong commitment to sh
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit.net-512BD4?style=flat-square&logo=.net&logoColor=white)
+
 
 ### 🛠️ IDEs
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)

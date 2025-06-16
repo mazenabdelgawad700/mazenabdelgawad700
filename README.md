@@ -38,7 +38,7 @@ What sets me apart is not just technical expertise but a strong commitment to sh
 - Architected and implemented robust **RESTful APIs** for scalable apps.  
 - Diagnosed and resolved complex server/database issues.  
 - Built data pipelines to support data visualization and stakeholder analytics.  
-- Handled API maintenance, DB optimization, and CI/CD pipelines in an **Agile** setup.
+- Handled API maintenance and DB optimization.
 
 ---
 

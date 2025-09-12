@@ -14,7 +14,7 @@ What sets me apart is not just technical expertise but a strong commitment to sh
 
 ### 📌 GDSC EELU-Bani Suief – HR Coordinator  
 🗓️ February 2024 – September 2024  
-<!-- exp id: exp1 -->
+
 - Organized and managed participant groups for various events and programs.  
 - Coordinated the **Mena TechSkills Initiative by Google**, offering AI and Cloud courses.  
 - Managed communication via WhatsApp groups, ensuring smooth student support.  
@@ -24,7 +24,7 @@ What sets me apart is not just technical expertise but a strong commitment to sh
 
 ### 📌 Digital Egypt Pioneers Initiative (DEPI) – Web Development Intern  
 🗓️ April 2024 – October 2024  
-<!-- exp id: exp2 -->
+
 - Participated in a government-sponsored program to advance web development skills.  
 - Built web applications using **ASP.NET Core Web API**, **ASP.NET MVC**, and **SQL Server**.  
 - Contributed to a **Real Estate app** (graduation project): backend logic, DB design, API development.  
@@ -33,8 +33,8 @@ What sets me apart is not just technical expertise but a strong commitment to sh
 ---
 
 ### 📌 ECIT – Software Engineer  
-🗓️ August 2024 – Present  
-<!-- exp id: exp3 -->
+🗓️ August 2024 – June 2025  
+
 - Architected and implemented robust **RESTful APIs** for scalable apps.  
 - Diagnosed and resolved complex server/database issues.  
 - Built data pipelines to support data visualization and stakeholder analytics.  
@@ -42,6 +42,10 @@ What sets me apart is not just technical expertise but a strong commitment to sh
 
 ---
 
+### 📌 NDS – Software Engineer  
+🗓️ July 2025 – Present 
+
+---
 ## 🧠 Skills & Tech Stack
 
 ### 💻 Programming Languages
